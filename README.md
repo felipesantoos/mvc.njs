@@ -36,6 +36,7 @@ npm init -y
 npm install express
 npm install consign
 npm install ejs
+npm install fs
 ```
 
 # Como rodar o projeto
