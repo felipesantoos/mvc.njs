@@ -26,7 +26,7 @@ MVC é um padrão de arquitetura de software que divide a aplicação em três c
 ![mcv-nodejs](https://user-images.githubusercontent.com/49795183/142776213-23b60bdb-b44a-49d7-86b0-9606013d9346.png)
 
 # Estrutura das pastas
-![Screenshot from 2021-11-21 17-00-52](https://user-images.githubusercontent.com/49795183/142777047-028d0d6b-99e0-4c51-9b07-bb28acae4a08.png)
+![Screenshot from 2021-11-21 17-48-32](https://user-images.githubusercontent.com/49795183/142778442-359cf51c-5279-4d8b-b905-c4257c46719d.png)
 
 
 # Dependências
