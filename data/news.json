@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "title": "Lorem Ipsum",
+            "new": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis tempor enim. Pellentesque non urna eget enim porta porttitor. Phasellus vulputate eu nisi vel ornare. Fusce et sollicitudin ante. Suspendisse suscipit viverra nisi id finibus. Duis vitae placerat mi. Aenean ornare leo quis fringilla mollis. Morbi fringilla ligula leo, ac luctus lorem tempus eu. Nunc gravida pharetra nunc, non cursus sem semper in. Ut egestas purus a faucibus varius."
+        },
+        {
+            "title": "Curabitur neque",
+            "new": "Duis id justo aliquam, dignissim est ut, porttitor augue. Suspendisse sagittis efficitur sapien, nec suscipit felis tincidunt bibendum. In a leo non ligula lacinia pretium. Praesent aliquam ultrices accumsan. Phasellus vulputate laoreet interdum. Nam scelerisque, sem ut maximus dictum, nulla augue gravida neque, eget euismod felis urna quis odio. Vivamus eleifend placerat varius. Morbi vel mauris at ligula placerat molestie. Curabitur sit amet turpis mauris. Vivamus quis consequat lectus, eget tincidunt eros. Aliquam egestas mattis nunc, a elementum nisl consectetur quis."
+        },
+        {
+            "title": "Duis id justo",
+            "new": "Dignissim est ut, porttitor augue. Suspendisse sagittis efficitur sapien, nec suscipit felis tincidunt bibendum. In a leo non ligula lacinia pretium. Praesent aliquam ultrices accumsan. Phasellus vulputate laoreet interdum. Nam scelerisque, sem ut maximus dictum, nulla augue gravida neque, eget euismod felis urna quis odio. Vivamus eleifend placerat varius. Morbi vel mauris at ligula placerat molestie. Curabitur sit amet turpis mauris. Vivamus quis consequat lectus, eget tincidunt eros. Aliquam egestas mattis nunc, a elementum nisl consectetur quis."
+        }
+    ]
+}
